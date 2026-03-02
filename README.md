@@ -10,4 +10,6 @@
 英文版参见：<http://www.cs.utsa.edu/~wagner/knuth/>
 
 -------------------------------------------------------------
-官方更新追踪：https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+官方更新追踪：
+  1. https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+  2. https://cs.stanford.edu/~knuth/news.html
